@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: 95c1f10b89e944e4e8a9956492a06449
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - settingsPanel: {instanceID: 0}
+  - settingsBackground: {instanceID: 0}
+  - settingsOpen: {instanceID: 0}
+  - settingsClose: {instanceID: 0}
+  - settingsAnimation: {instanceID: 0}
+  - helpPanel: {instanceID: 0}
+  - helpOpen: {instanceID: 0}
+  - helpClose: {instanceID: 0}
+  - helpAnimation: {instanceID: 0}
+  - infoPanel: {instanceID: 0}
+  - infoOpen: {instanceID: 0}
+  - infoClose: {instanceID: 0}
+  - infoAnimation: {instanceID: 0}
+  - profilePanel: {instanceID: 0}
+  - profileOpen: {instanceID: 0}
+  - profileClose: {instanceID: 0}
+  - profileAnimation: {instanceID: 0}
+  - captchaPanel: {instanceID: 0}
+  - captchaOpen: {instanceID: 0}
+  - captchaClose: {instanceID: 0}
+  - captchaAnimation: {instanceID: 0}
+  - inputCaptcha: {instanceID: 0}
+  - textCaptcha: {instanceID: 0}
+  - buttonCaptchaToSettings: {instanceID: 0}
+  - buttonCaptchaToBlock: {instanceID: 0}
+  - buttonCaptchaToProfiles: {instanceID: 0}
+  - imageToShare: {fileID: 2800000, guid: 6dc9cf23dcdfa814ab667b8c41942939, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
