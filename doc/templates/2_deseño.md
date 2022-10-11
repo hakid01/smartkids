@@ -76,7 +76,7 @@ La **estructura** del archivo **JSON** donde se guardan los datos de configuraci
 
 [//]: # (Enlaces a imagenes)
 
-[gantt]:doc/img/gantt.png
+[gantt]:/doc/img/gantt.png
 
 [casos_uso]:doc/img/diseno/casos_uso.png "Diagrama de casos de uso"
 
