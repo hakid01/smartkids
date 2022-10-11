@@ -72,24 +72,24 @@ La **estructura** del archivo **JSON** donde se guardan los datos de configuraci
 
 [//]: # (Enlaces a documentos)
 
-[doc_manual]:doc/templates/4_manual_usuario.md
+[doc_manual]:/doc/templates/4_manual_usuario.md
 
 [//]: # (Enlaces a imagenes)
 
 [gantt]:/doc/img/gantt.png
 
-[casos_uso]:doc/img/diseno/casos_uso.png "Diagrama de casos de uso"
+[casos_uso]:/doc/img/diseno/casos_uso.png "Diagrama de casos de uso"
 
-[paleta]:doc/img/diseno/paleta.png "Paleta de colores"
+[paleta]:/doc/img/diseno/paleta.png "Paleta de colores"
 
-[avatar]:doc/img/diseno/avatares.png "Avatares disponibles"
+[avatar]:/doc/img/diseno/avatares.png "Avatares disponibles"
 
-[screens]:doc/img/diseno/screens.png "Pantallas de la app"
+[screens]:/doc/img/diseno/screens.png "Pantallas de la app"
 
-[resumen]:doc/img/mockups/resumen.png "Resumen"
+[resumen]:/doc/img/mockups/resumen.png "Resumen"
 
-[data]:doc/img/diseno/json_ejemplo.png "JSON datos guardados"
-[data_default]:doc/img/diseno/json_default.png "JSON datos por defecto"
+[data]:/doc/img/diseno/json_ejemplo.png "JSON datos guardados"
+[data_default]:/doc/img/diseno/json_default.png "JSON datos por defecto"
 
 [//]: # (Enlaces a tipografías)
 

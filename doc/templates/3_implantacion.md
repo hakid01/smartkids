@@ -45,8 +45,8 @@ Para más información, lee la [política de privacidad][doc_privacidad].
 Leer el documento del [manual de usuario][doc_manual].
 
 
-[doc_manual]:doc/templates/4_manual_usuario.md
-[doc_privacidad]:doc/templates/6_politica_privacidad.md
+[doc_manual]:/doc/templates/4_manual_usuario.md
+[doc_privacidad]:/doc/templates/6_politica_privacidad.md
 
-[buscar]:doc/img/buscar.png "Buscar aplicación"
-[instalar]:doc/img/instalar.png "Instalar aplicación"
+[buscar]:/doc/img/buscar.png "Buscar aplicación"
+[instalar]:/doc/img/instalar.png "Instalar aplicación"
